@@ -94,7 +94,7 @@
   "workspaceSettings": {
     "modid": "fake_fps",
     "modName": "Fake FPS",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "custom FPS",
     "author": "Dreyka Oas",
     "websiteURL": "https://github.com/Dreyka-Oas/Fake-FPS",
@@ -109,5 +109,5 @@
     "credits": "Dreyka Oas",
     "modElementsPackage": "oas.work.fake_fps"
   },
-  "mcreatorVersion": 202400342716
+  "mcreatorVersion": 202400445618
 }
